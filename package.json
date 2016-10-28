@@ -1,0 +1,24 @@
+{
+  "name": "meal-calculator",
+  "version": "1.0.0",
+  "description": "a meal cost calculator",
+  "main": "js/meal_caculator.js",
+  "scripts": {
+    "mkdir": "mkdir -p build",
+    "build": 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meal",
+    "calculator",
+    "food"
+  ],
+  "author": "Brad Ellis",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "webpack": "^1.13.2"
+  }
+}
